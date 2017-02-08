@@ -1,43 +1,42 @@
 2017-02-07
 
-# Solid plan
+# Let's go
 
 [picture of leds]
 
-It's about time to make something towards growing. Beucase I got some hope.
+It's about time to start growing eatable plants. When I planted the Dundicut pepper in December, watering every day didn't bring any results for around  3 weeks. Then out of nowhere:
 
-When I planted the Dundicut pepper, watering every day didn't bring any results for like 3 weeks, so I lost hope a bit, but suddently something started growing from first pot.
+[picture of first green]
 
-[ picture of first green]
+[picture of actual size]
 
-So it's time for solid growing starting plan:
 
-I decided to order online seeds of following plants and will decide later which to grow first depending on the space setup in bathroom:
-
+## Plants
+I ordered  online seeds of following vegetables and herbs:
 * red basil
 * broccoli
-* tea - Camelia Sinensis, but because they a lot of time to be usable, so I'll buy seedling
 * Salvia oficinalis
 * spinachi
 * kale
 * rucola (a bit too high, but we'll see)
 
-
-I'll buy all of them at once, and decide later what to plant first.
-
-But for the plants to grow, I need some lighing first. After some research I decided to go with LED, and after extensive research I decided to build a setup with 10 x 1W LED:
-* 4 Warm White (3200k)
-* 4 Cool white (6500k)  
-* 1 Deep Red (660nm)
-* 1 Royal Blue(450nm)
-
-around 50W per 3 flowers.
-
- Spectrum needed is this:
- [specrum needed ] http://www.eyelighting.com/_CE/pagecontent/Images/Lamp%20Technology%20Education/quality%20of%20a%20light%20source.jpg
+I'd also like to grow tea - Camelia Sinensis, but cannot find seedling online. I'll have ot look around local area
 
 
- So I think  this set will be universal for everything. Red and blue for this peak needs and white for whole spectrum.    
+## Grow light
+
+ But for the plants to grow, I need some lighing first. After some chaotic research I concluteded that in order to provide light for 3 flowers/pots I need around 50W LED setup with following combination:
+* 2 Warm white (3200k) 10W
+* 2 Cool white (6500k) 10W  
+* 1 Deep red (660nm) 5W
+* 1 Royal blue(450nm) 5W
 
 
-For the LED setup, there's some cooling required, I found a great site with DIY setup. So I'll do
+With the ratio of  4:4:1:1. I think  this set will be universal for every plant to grow. Red and blue for 660 and 450 nm and white conbitaion for whole 400-700 nm [spectrum required for photosynthesis].
+
+I decided to go with EPISTAR manufacture. The above set costs around 12 euros in Poland.
+
+For the LED setup, there's some cooling required, I found a great site with DIY setup. I'll have to figure it out, but I'll wait for LED's to arrive.
+
+
+[spectrum required for photosynthesis]: http://www.eyelighting.com/_CE/pagecontent/Images/Lamp%20Technology%20Education/quality%20of%20a%20light%20source.jpg
