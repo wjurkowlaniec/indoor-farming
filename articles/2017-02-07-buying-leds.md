@@ -10,9 +10,11 @@ It's about time to start growing eatable plants. When I planted the Dundicut pep
 
 [picture of actual size]
 
+The goal is to grow plants you can eat. To check how much food you can grow at home at specific space with artificial lighting.
+
 
 ## Plants
-I ordered  online seeds of following vegetables and herbs:
+In addition to already growing Dundicut chili I ordered  online seeds of following vegetables and herbs:
 * red basil
 * broccoli
 * Salvia oficinalis
@@ -34,9 +36,11 @@ I'd also like to grow tea - Camelia Sinensis, but cannot find seedling online. I
 
 With the ratio of  4:4:1:1. I think  this set will be universal for every plant to grow. Red and blue for 660 and 450 nm and white conbitaion for whole 400-700 nm [spectrum required for photosynthesis].
 
-I decided to go with EPISTAR manufacture. The above set costs around 12 euros in Poland.
 
-For the LED setup, there's some cooling required, I found a great site with DIY setup. I'll have to figure it out, but I'll wait for LED's to arrive.
+[![spectrum required for photosynthesis](http://www.bio.miami.edu/dana/pix/photosynthesis_actionspectrum.jpg)](https://socratic.org/questions/how-does-electromagnetic-spectrum-relate-to-photosynthesis)
 
 
-[spectrum required for photosynthesis]: http://www.eyelighting.com/_CE/pagecontent/Images/Lamp%20Technology%20Education/quality%20of%20a%20light%20source.jpg
+I decided to go with EPISTAR manufacture. The above set costs around 12 euros in Poland. For the LED setup, there's some cooling required, I found a great site with DIY setup. I'll have to figure it out, but I'll wait for LED's to arrive.
+
+
+[spectrum required for photosynthesis]: https://socratic.org/questions/how-does-electromagnetic-spectrum-relate-to-photosynthesis
